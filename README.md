@@ -18,4 +18,3 @@ Le code R et le rapport PDF inclus reproduisent les analyses univariées, multiv
 ## Utilisation
 
 - Exécuter le script R avec les données **ESS9** pour reproduire les graphiques et tableaux.  
-- Projet adapté pour des travaux de statistiques ou d’économie appliquée (par exemple à l’ENSAE).
